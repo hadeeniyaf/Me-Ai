@@ -65,3 +65,6 @@ npm start
 
 By combining personalization, long-term memory, and fast LLMs, Me.Ai aims to make AI feel truly human-aligned — unique to its creator.
 
+# files are hosted externally due to GitHub size limits.
+open the link to view the project.
+(https://drive.google.com/drive/folders/15GE4zxyRf6yAp2-UttWuL6KpNkYfV9uX?usp=sharing)
